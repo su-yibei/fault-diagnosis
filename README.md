@@ -1,2 +1,2 @@
 # fault-diagnosis
-a method for bearing fault diagnosis under noise environment
+SJ-CNN: a method for bearing fault diagnosis under noise environment
